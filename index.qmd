@@ -8,11 +8,14 @@ about:
 
 :::{#me}
 
-## Goals
+## Goals : 
+I am passionate about leveraging data to uncover insights and drive data-informed business decisions. I enjoy applying statistical methods and machine learning techniques to real-world problems, including areas such as sports analytics, mental health research, and predictive modeling. I also enjoy creating interactive dashboards and conducting exploratory analyses to reveal meaningful patterns.
 
-## Education
+## Education: 
+Education:I hold a Master’s degree in Data Analytics from the University of Massachusetts Amherst, which has provided me with a strong foundation in statistical methods, data interpretation, and analytical problem-solving.
 
-## Experience
+## Experience:
+I have worked in the finance industry for the past six years and currently serve as a Data Analytics Senior Consultant. In this role, I focus on investigating datasets, uncovering actionable insights, and supporting broader organizational goals through data-driven strategies.
 
 :::
 

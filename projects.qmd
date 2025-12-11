@@ -2,8 +2,21 @@
 title: "Projects"
 ---
 
-## Project 1
+## Relevent Work:
 
-## Project 2
+Boston Weather ETL Pipeline
+This project automates the collection and processing of Boston weather data. Historical data from NOAA and real-time data from the Open-Meteo API are ingested, stored in AWS S3, and processed via AWS Glue into structured formats. The pipeline runs daily, ensuring up-to-date datasets for analysis and visualization. Processed data powers a Streamlit dashboard for monitoring current weather conditions, and the system includes logging, scheduling, and alerting to ensure reliability. This ETL workflow provides a robust, automated solution for maintaining high-quality, ready-to-use weather data for research or operational use.
 
-## Project 3
+[View the Boston Weather GitHub Repository](https://github.com/ejsimon0408/BostonWeatherETL)
+
+## Professional Resume:
+
+## Streamlit Dashboard:
+<iframe src="https://bostonweatheretl-fvgk36nhmvp8uy4hgnxyng.streamlit.app/" 
+        width="100%" 
+        height="800" 
+        frameborder="0">
+</iframe>
+
+
+

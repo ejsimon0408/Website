@@ -1,23 +1,58 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I am passionate about leveraging data to uncover insights and drive data-informed business decisions. I enjoy applying statistical methods and machine learning techniques to real-world problems, including areas such as sports analytics, mental health research, and predictive modeling. I also enjoy creating interactive dashboards and conducting exploratory analyses to reveal meaningful patterns.\n\n\n\nEducation:I hold a Master’s degree in Data Analytics from the University of Massachusetts Amherst, which has provided me with a strong foundation in statistical methods, data interpretation, and analytical problem-solving.\n\n\n\nI have worked in the finance industry for the past six years and currently serve as a Data Analytics Senior Consultant. In this role, I focus on investigating datasets, uncovering actionable insights, and supporting broader organizational goals through data-driven strategies.\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "I am passionate about leveraging data to uncover insights and drive data-informed business decisions. I enjoy applying statistical methods and machine learning techniques to real-world problems, including areas such as sports analytics, mental health research, and predictive modeling. I also enjoy creating interactive dashboards and conducting exploratory analyses to reveal meaningful patterns."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Education:I hold a Master’s degree in Data Analytics from the University of Massachusetts Amherst, which has provided me with a strong foundation in statistical methods, data interpretation, and analytical problem-solving."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "I have worked in the finance industry for the past six years and currently serve as a Data Analytics Senior Consultant. In this role, I focus on investigating datasets, uncovering actionable insights, and supporting broader organizational goals through data-driven strategies."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Boston Weather ETL Pipeline This project automates the collection and processing of Boston weather data. Historical data from NOAA and real-time data from the Open-Meteo API are ingested, stored in AWS S3, and processed via AWS Glue into structured formats. The pipeline runs daily, ensuring up-to-date datasets for analysis and visualization. Processed data powers a Streamlit dashboard for monitoring current weather conditions, and the system includes logging, scheduling, and alerting to ensure reliability. This ETL workflow provides a robust, automated solution for maintaining high-quality, ready-to-use weather data for research or operational use.\nView the Boston Weather GitHub Repository"
+  },
+  {
+    "objectID": "projects.html#relevent-work",
+    "href": "projects.html#relevent-work",
+    "title": "Projects",
+    "section": "",
+    "text": "Boston Weather ETL Pipeline This project automates the collection and processing of Boston weather data. Historical data from NOAA and real-time data from the Open-Meteo API are ingested, stored in AWS S3, and processed via AWS Glue into structured formats. The pipeline runs daily, ensuring up-to-date datasets for analysis and visualization. Processed data powers a Streamlit dashboard for monitoring current weather conditions, and the system includes logging, scheduling, and alerting to ensure reliability. This ETL workflow provides a robust, automated solution for maintaining high-quality, ready-to-use weather data for research or operational use.\nView the Boston Weather GitHub Repository"
+  },
+  {
+    "objectID": "projects.html#professional-resume",
+    "href": "projects.html#professional-resume",
+    "title": "Projects",
+    "section": "Professional Resume:",
+    "text": "Professional Resume:"
+  },
+  {
+    "objectID": "projects.html#streamlit-dashboard",
+    "href": "projects.html#streamlit-dashboard",
+    "title": "Projects",
+    "section": "Streamlit Dashboard:",
+    "text": "Streamlit Dashboard:"
   }
 ]
