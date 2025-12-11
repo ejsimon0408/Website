@@ -9,14 +9,20 @@ This project automates the collection and processing of Boston weather data. His
 
 [View the Boston Weather GitHub Repository](https://github.com/ejsimon0408/BostonWeatherETL)
 
-## Professional Resume:
-
 ## Streamlit Dashboard:
-<iframe src="https://bostonweatheretl-fvgk36nhmvp8uy4hgnxyng.streamlit.app/" 
-        width="100%" 
-        height="800" 
-        frameborder="0">
-</iframe>
+Boston Weather Dashboard – Demonstration
+
+::: {.image}
+![](img/visualization.png){width=70% height=auto}
+:::
+
+
+The chart above shows the daily maximum (TMAX) and minimum (TMIN) temperatures in Boston for a given month. The lighter line represents the daily highs, while the darker line shows the daily lows. Peaks indicate warmer days, and valleys indicate cooler days. This visualization highlights temperature variability and trends over the month, providing a quick way to spot unusually hot or cold days.This shows November of 2025. 
+
+This chart is part of the interactive Boston Weather Dashboard, where users can filter by year and month, view precipitation, and see daily weather flags (“Above”, “Below”, “Average”) for deeper insights.
+
+[Open Live Boston Weather Dashboard](https://bostonweatheretl-fvgk36nhmvp8uy4hgnxyng.streamlit.app/)
+
 
 
 

@@ -17,6 +17,13 @@ Education:I hold a Master’s degree in Data Analytics from the University of Ma
 ## Experience:
 I have worked in the finance industry for the past six years and currently serve as a Data Analytics Senior Consultant. In this role, I focus on investigating datasets, uncovering actionable insights, and supporting broader organizational goals through data-driven strategies.
 
+## Take A Look At My Resume: 
+
+<a href="https://github.com/ejsimon0408/Website/raw/main/Educational%20Resume.pdf" download 
+   style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
+    Download My Resume
+</a>
+
 :::
 
 Thanks for checking out my web site!
